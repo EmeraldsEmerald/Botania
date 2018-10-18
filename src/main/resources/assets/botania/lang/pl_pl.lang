@@ -1602,8 +1602,8 @@ item.botania:baubleBox.name=Bauble Case
 item.botania:manaPowder.name=Mana Powder
 item.botania:dodgeRing.name=Ring of Dexterous Motion
 item.botania:invisibilityCloak.name=Invisibility Cloak
-item.botania:buttPendant.name=Cirrus Amulet
-item.botania:superButtPendant.name=Nimbus Amulet
+item.botania:cloudPendant.name=Cirrus Amulet
+item.botania:superCloudPendant.name=Nimbus Amulet
 item.botania:thirdEye.name=Third Eye
 item.botania:astrolabe.name=Worldshaper's Astrolabe
 item.botania:goddessCharm.name=Benevolent Goddess' Charm
@@ -3543,16 +3543,16 @@ botania.page.invisibilityCloak0=Not much explanation is required for the &1Invis
 botania.page.invisibilityCloak1=You're a wizard, steve
 
 # -- CIRRUS AMULET
-botania.entry.buttPendant=Cirrus Amulet
-botania.tagline.buttPendant=Gives you double jump
-botania.page.buttPendant0=The &1Cirrus Amulet&0 is a bauble that can be worn in the &4amulet&0 slot.<br>While being worn, the wearer is granted the ability to &4double jump&0, the second jump negating all currently accumulated fall momentum and damage that would occur from the fall.
-botania.page.buttPendant1=It's all in my butt
+botania.entry.cloudPendant=Cirrus Amulet
+botania.tagline.cloudPendant=Gives you double jump
+botania.page.cloudPendant0=The &1Cirrus Amulet&0 is a bauble that can be worn in the &4amulet&0 slot.<br>While being worn, the wearer is granted the ability to &4double jump&0, the second jump negating all currently accumulated fall momentum and damage that would occur from the fall.
+botania.page.cloudPendant1=It's all in the cloud
 
 # -- NIMBUS AMULET
-botania.entry.superButtPendant=Nimbus Amulet
-botania.tagline.superButtPendant=Gives you triple jump
-botania.page.superButtPendant0=The &1Nimbus Amulet&0 is an upgraded version of the &1Cirrus Amulet&0, infused with the power of &1Gaia Spirits&0, it allows the wearer to &4triple jump&0.
-botania.page.superButtPendant1=Magic > physics
+botania.entry.superCloudPendant=Nimbus Amulet
+botania.tagline.superCloudPendant=Gives you triple jump
+botania.page.superCloudPendant0=The &1Nimbus Amulet&0 is an upgraded version of the &1Cirrus Amulet&0, infused with the power of &1Gaia Spirits&0, it allows the wearer to &4triple jump&0.
+botania.page.superCloudPendant1=Magic > physics
 
 # -- THIRD EYE
 botania.entry.thirdEye=Third Eye
@@ -3687,7 +3687,7 @@ botania.tagline.unstableBlocks=Fancy accent blocks
 botania.page.unstableBlocks0=Fiddling with highly powerful &4Mana&0 infused objects has lead to the creation of these strange cubes. They seem to emit some visual radiation in the form of colorful lightning, but it doesn't seem like it has any effects other than visual appeal.
 botania.page.unstableBlocks1=They look fancy
 botania.page.unstableBlocks2=And they come in all 16 colors
-botania.page.unstableBlocks3=There's also a way of creating a different version of these that releases an extremely larger amount of energy, this time in the form of a beam towards the sky that extends into a butt of sorts. This one also seems to be disableable via a &4Redstone Signal&0, it's called an &1Unstable Beacon&0, as it looks like one somehow.
+botania.page.unstableBlocks3=There's also a way of creating a different version of these that releases an extremely larger amount of energy, this time in the form of a beam towards the sky that extends into a cloud of sorts. This one also seems to be disableable via a &4Redstone Signal&0, it's called an &1Unstable Beacon&0, as it looks like one somehow.
 botania.page.unstableBlocks4=Fireworks?
 botania.page.unstableBlocks5=Combined entropy
 botania.page.unstableBlocks6=It's also possible, by using the &1Unstable Beacons&0, to turn them into a manageable and portable utility, in the form of the &1Signal Flare&0.<br>This gun of sorts shoots a colored round into the sky that lasts a few seconds, it also stuns any nearby enemies for just as long.
