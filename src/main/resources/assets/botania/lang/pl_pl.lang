@@ -17,8 +17,8 @@ generator.botania-skyblock.info=Not recommended for botania newcomers
 # You do not need to copy this into your lang file
 botaniamisc.noloc=botaniamisc.noloc
 
-botaniamisc.nextPage=Następna Strona
-botaniamisc.prevPage=Poprzednia Strona
+botaniamisc.nextPage=Następna strona
+botaniamisc.prevPage=Poprzednia strona
 botaniamisc.back=Powrót
 botaniamisc.craftingContainer=Zwrócone po recepturze
 botaniamisc.shapeless=Bezkształtna Receptura
@@ -161,57 +161,58 @@ botaniamisc.scaleChange=Zmień skalę
 botaniamisc.invalidDodge=Niepoprawna paczka uniku
 
 # NEI INTEGRATION
-botania.nei.brewery=Botanical Brewery
-botania.nei.elvenTrade=Elven Trade
-botania.nei.floatingFlowers=Floating Flowers
-botania.nei.manaPool=Mana Infusion
-botania.nei.petalApothecary=Petal Apothecary
-botania.nei.runicAltar=Runic Altar
-botania.nei.pureDaisy=Pure Daisy
+botania.nei.brewery=Botaniczna Warzelnia
+botania.nei.elvenTrade=Wymiana z Elfami
+botania.nei.floatingFlowers=Unoszące się Kwiaty
+botania.nei.manaPool=Infuzja Many
+botania.nei.petalApothecary=Wanienka Płatków
+botania.nei.runicAltar=Runiczny Ołtarz
+botania.nei.pureDaisy=Czysta Stokrotka
 botania.nei.lexica=Lexica Botania
-botania.nei.orechid=Orechid
-botania.nei.orechidIgnem=Orechid Ignem
+botania.nei.orechid=Rudchidea
+botania.nei.orechidIgnem=Rudchidea Ignem
 
-nei.options.keys.gui.botania_corporea_request=Corporea Request
+nei.options.keys.gui.botania_corporea_request=Prośba do systemu Corporei
 
-botania.nei.lexicaSeparator=Extra Info:
-botania.nei.lexicaNoInfo=(there's no Extra Info for this entry, sorry!)
+botania.nei.lexicaSeparator=Dodatkowe Info:
+botania.nei.lexicaNoInfo=(nie ma do tego wpisu dodatkowego info, przepraszamy!)
 
 # NEI QUICK LOOKS
-botania.nei.quickInfo:tile.livingwood0~0=You can create Livingwood by placing Wood next to a Pure Daisy
-botania.nei.quickInfo:tile.livingrock0~0=You can create Livingrock by placing Stone next to a Pure Daisy
+botania.nei.quickInfo:tile.livingwood0~0=Możesz stworzyć Żywedrewno przez położenie dowolnej Kłody przy Czystej Stokrotce
+botania.nei.quickInfo:tile.livingrock0~0=Możesz stworzyć Żywąskałę przez położenie Kamienia przy Czystej Stokrotce
 
 botania.nei.quickInfo:item.bone~0=You're gonna have a bad time
-botania.nei.quickInfo:item.lexicon~0=What exactly did you expect?
-botania.nei.quickInfo:item.terrasteel~4=You can get Terrasteel by tossing the right materials on a Terrestrial Agglomeration Plate
-botania.nei.quickInfo:item.enderAirBottle~15=You can get this by right clicking with a Glass Bottle while in the End
+#intentionally kept this one english
+botania.nei.quickInfo:item.lexicon~0=Jakie miałeś oczekiwania?
+botania.nei.quickInfo:item.terrasteel~4=Możesz stworzyć Terrastal przez rzucenie poprawnych materiałów na Płytę Ziemskiej Aglomeracji
+botania.nei.quickInfo:item.enderAirBottle~15=Możesz to zdobyć, naciskając prawym przyciskiem myszki podczas trzymania Szklanej butelki w Endzie
 
 # BUILDCRAFT INTEGRATION
-botania.triggers.manaDetector=Mana Burst
-botania.triggers.manaEmpty=Mana Empty
-botania.triggers.manaSpace=Space for Mana
-botania.triggers.manaContains=Contains Mana
-botania.triggers.manaFull=Mana Full
-botania.triggers.runeAltarCanCraft=Altar Can Craft
+botania.triggers.manaDetector=Impuls Many
+botania.triggers.manaEmpty=Bez Many
+botania.triggers.manaSpace=Miejsce na Manę
+botania.triggers.manaContains=Zawiera Manę
+botania.triggers.manaFull=Pełne Many
+botania.triggers.runeAltarCanCraft=Ołtarz może stworzyć recepturę
 
 # COLORS
-botania.color0=White
-botania.color1=Orange
-botania.color2=Magenta
-botania.color3=Light Blue
-botania.color4=Yellow
-botania.color5=Lime
-botania.color6=Pink
-botania.color7=Gray
-botania.color8=Light Gray
-botania.color9=Cyan
-botania.color10=Purple
-botania.color11=Blue
-botania.color12=Brown
-botania.color13=Green
-botania.color14=Red
-botania.color15=Black
-botania.color16=Rainbow
+botania.color0=Biały
+botania.color1=Pomarańczowy
+botania.color2=Fuksyna
+botania.color3=Jasnoniebieski
+botania.color4=Żółty
+botania.color5=Limonkowy
+botania.color6=Różowy
+botania.color7=Szary
+botania.color8=Jasnoszary
+botania.color9=Turkusowy
+botania.color10=Fioletowy
+botania.color11=Niebieski
+botania.color12=Brązowy
+botania.color13=Zielony
+botania.color14=Czerwony
+botania.color15=Czarny
+botania.color16=Tęczowy
 
 # RANKS
 botania.rank0=&cD
@@ -222,61 +223,61 @@ botania.rank4=&dS
 botania.rank5=&6SS
 
 # ZODIAC SIGNS
-botania.sign0=Aries
-botania.sign1=Taurus
-botania.sign2=Gemini
-botania.sign3=Cancer
-botania.sign4=Leo
-botania.sign5=Virgo
-botania.sign6=Libra
-botania.sign7=Scorpio
-botania.sign8=Sagittarius
-botania.sign9=Capricorn
-botania.sign10=Aquarius
-botania.sign11=Pisces
+botania.sign0=Baran
+botania.sign1=Byk
+botania.sign2=Bliźnięta
+botania.sign3=Rak
+botania.sign4=Lew
+botania.sign5=Panna
+botania.sign6=Waga
+botania.sign7=Skorpion
+botania.sign8=Strzelec
+botania.sign9=Koziorożec
+botania.sign10=Wodnik
+botania.sign11=Ryba
 
 # WINGS
-botania.wings0=No Wings
+botania.wings0=Bez Skrzydeł
 botania.wings1=Wings: Flügel
-botania.wings2=Wings: One-Winged Angel
-botania.wings3=Wings: Ice Fairy
-botania.wings4=Wings: Phoenix
-botania.wings5=Wings: Black Snow Princess
-botania.wings6=Wings: Lord of the Pit
-botania.wings7=Wings: Sylph
-botania.wings8=Wings: Mega Ultra Chicken
-botania.wings9=Wings: The One
+botania.wings2=Wings: Jedno-skrzydlany Anioł
+botania.wings3=Wings: Wróżka Lodu
+botania.wings4=Wings: Feniks
+botania.wings5=Wings: Księżniczka Czarnego Śniegu
+botania.wings6=Wings: Władca Jamy
+botania.wings7=Wings: Sylf
+botania.wings8=Wings: Mega Ultra Kurczak
+botania.wings9=Wings: On
 
 # TORCH MODES
-botania.animatedTorch.toggle=Toggle
-botania.animatedTorch.rotate=Rotate
-botania.animatedTorch.random=Random
+botania.animatedTorch.toggle=Przełączanie
+botania.animatedTorch.rotate=Rotacja
+botania.animatedTorch.random=Losowe
 
 # ARMOR SETS
-botania.armorset.manasteel.name=Mana Affinity
-botania.armorset.manasteel.desc=10%% less Mana cost on Mana Tools and Rods
-botania.armorset.elementium.name=Great Fairy's Blessing
-botania.armorset.elementium.desc=Chance for pixies to apply potion effects
-botania.armorset.terrasteel.name=Will of the Ancients
-botania.armorset.terrasteel.desc0=20%% less Mana cost on Mana Tools and Rods
-botania.armorset.terrasteel.desc1=Regen even if hunger isn't topped off
-botania.armorset.terrasteel.desc2=Passive Mana generation on Mana Tablets
-botania.armorset.manaweave.name=Manatide Prowess
-botania.armorset.manaweave.desc0=35%% less Mana cost on Mana Tools and Rods
-botania.armorset.manaweave.desc1=Increased proficiency with Magical Rods
+botania.armorset.manasteel.name=Bliskość do Many
+botania.armorset.manasteel.desc=Użycie Many przez Narzędzia i Różdżki zmniejszone o 10%%
+botania.armorset.elementium.name=Błogosławieństwo Wielkiej Wróżki
+botania.armorset.elementium.desc=Szansa, aby wróżki aplikowały różne efekty
+botania.armorset.terrasteel.name=Wola Pradawnych
+botania.armorset.terrasteel.desc0=Użycie Many przez Narzędzia i Różdżki zmniejszone o 20%%
+botania.armorset.terrasteel.desc1=Regeneracja życia nawet bez pełnego paska Głodu
+botania.armorset.terrasteel.desc2=Bierna generacja Many dla Tabletów Many
+botania.armorset.manaweave.name=Sprawność w Falach Many
+botania.armorset.manaweave.desc0=Użycie Many przez Narzędzia i Różdżki zmniejszone o 35%%
+botania.armorset.manaweave.desc1=Zwiększona biegłość w użyciu Różdżek
 
-botania.armorset.will0.desc=Critical Hits apply a strong weakness effect (Will of Ahrim)
-botania.armorset.will1.desc=Critical Hit damage increases with lower HP (Will of Dharok)
-botania.armorset.will2.desc=Critical Hits heal for a portion of damage dealt (Will of Guthan)
-botania.armorset.will3.desc=Critical Hits apply a strong slowness effect (Will of Torag)
-botania.armorset.will4.desc=Critical Hits pierce through armor (Will of Verac)
-botania.armorset.will5.desc=Critical Hits apply a wither effect (Will of Karil)
-botania.armorset.will0.shortDesc=Critical Hits apply a strong weakness effect
-botania.armorset.will1.shortDesc=Critical Hit damage increases with lower HP
-botania.armorset.will2.shortDesc=Critical Hits heal for a portion of damage dealt
-botania.armorset.will3.shortDesc=Critical Hits apply a strong slowness effect
-botania.armorset.will4.shortDesc=Critical Hits pierce through armor
-botania.armorset.will5.shortDesc=Critical Hits apply a wither effect
+botania.armorset.will0.desc=Krytyczne Ciosy wywierają mocny efekt Słabości (Wola Ahrima)
+botania.armorset.will1.desc=Obrażenia zadane przez Krytyczne Ciosy zwiększają się wraz ze stratą życia (Wola Dharoka)
+botania.armorset.will2.desc=Krytyczne Ciosy częściowo leczą zależnie od zadanych obrażeń (Wola Guthana)
+botania.armorset.will3.desc=Krytyczne Ciosy wywierają mocny efekt Spowolnienia (Wola Toraga)
+botania.armorset.will4.desc=Krytyczne Ciosy przebijają przez zbroję (Wola Veraca)
+botania.armorset.will5.desc=Krytyczne Ciosy wywierają efekt Obumarcia (Wola Karila)
+botania.armorset.will0.shortDesc=Krytyczne Ciosy wywierają mocny efekt Słabości
+botania.armorset.will1.shortDesc=Obrażenia zadane przez Krytyczne Ciosy zwiększają się wraz ze stratą życia
+botania.armorset.will2.shortDesc=Krytyczne Ciosy częściowo leczą zależnie od zadanych obrażeń
+botania.armorset.will3.shortDesc=Krytyczne Ciosy wywierają mocny efekt Spowolnienia
+botania.armorset.will4.shortDesc=Krytyczne Ciosy przebijają przez zbroję
+botania.armorset.will5.shortDesc=Krytyczne Ciosy wywierają efekt Obumarcia
 
 # ROMAN NUMERALS
 botania.roman0=
@@ -312,15 +313,15 @@ botania.roman29=XXIX
 botania.roman30=XXX
 
 # KNOWLEDGE
-botania.knowledge.minecraft=Minecraftian Knowledge
-botania.knowledge.alfheim=&aElven&7 Knowledge
-botania.knowledge.relic=&5Relic&7 Knowledge
+botania.knowledge.minecraft=Wiedza Minecraftiańska
+botania.knowledge.alfheim=Wiedza &aElfów&7
+botania.knowledge.relic=Wiedza o &5Relikwiach&7
 
 # FLOWER TYPES
-botania.flowerType.passiveGenerating=Passive Generating Flower
-botania.flowerType.generating=Generating Flower
-botania.flowerType.functional=Functional Flower
-botania.flowerType.misc=Miscellaneous Flower
+botania.flowerType.passiveGenerating=Kwiat Biernie Generujący
+botania.flowerType.generating=Kwiat Generujący
+botania.flowerType.functional=Kwiat Funkcyjny
+botania.flowerType.misc=Kwiat Rozmaity
 
 # CONFIGURATION
 blockBreakingParticles.enabled=Block Break Particles
